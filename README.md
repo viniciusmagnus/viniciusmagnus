@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">Bem vindo!<h1>
+<br>
+  
+## Sobre mim
+  
+Trabalho atualmente desenvolvendo com .NET. Gosto muito de aprender coisas novas e poder ajudar meus colegas como puder.
+ Sou um entusiasta apaixonado por tecnologia, programação e inovação. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e aprimorar minhas habilidades.
 
-<!--
-**viniciusmagnus/viniciusmagnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div>
+   <a href="https://github.com/vini-magnus">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmagnus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmagnus&layout=compact&langs_count=6&theme=tokyonight"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+<br>
+  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
+## Minhas Redes
+<br><br>
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-magnus-668808250" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+## Detalhes
+
+ 
+
+
+
