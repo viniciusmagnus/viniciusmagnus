@@ -6,10 +6,11 @@
 Trabalho atualmente desenvolvendo com .NET. Gosto muito de aprender coisas novas e poder ajudar meus colegas como puder.
  Sou um entusiasta apaixonado por tecnologia, programação e inovação. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e aprimorar minhas habilidades.
 
-  <div>
-   <a href="https://github.com/vini-magnus">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmagnus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmagnus&layout=compact&langs_count=6&theme=tokyonight"/>
+ [![vinimagnus's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmagnus&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmagnus&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+   
 
 
 ## Skills
