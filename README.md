@@ -6,9 +6,9 @@
 Trabalho atualmente desenvolvendo com .NET. Gosto muito de aprender coisas novas e poder ajudar meus colegas como puder.
  Sou um entusiasta apaixonado por tecnologia, programação e inovação. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e aprimorar minhas habilidades.
 
- [![vinimagnus's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmagnus&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ ![vinimagnus's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmagnus&show_icons=true&theme=tokyonight)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmagnus&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmagnus&theme=tokyonight)
 
    
 
